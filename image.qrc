@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file>add.png</file>
+        <file>delete.png</file>
+        <file>edit.png</file>
+        <file>app.ico</file>
+        <file>refresh.png</file>
+        <file>cmd.png</file>
+        <file>connect.png</file>
+        <file>wait.gif</file>
+        <file>open.png</file>
+        <file>setting.png</file>
+        <file>about.png</file>
+        <file>goto.png</file>
+    </qresource>
+</RCC>
